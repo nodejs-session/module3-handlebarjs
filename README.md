@@ -1,2 +1,2 @@
-# module3-handlebarjs
-Module3 handlebar assignment - NodeJS
+# NodeJS - Module3 - Handlebar
+Heroku URL: https://kamal-mod3-handlebarjs.herokuapp.com/
